@@ -5,7 +5,7 @@ project (Advent-of-Code-2019)
 
 set(INCS AoC.hpp)
 
-foreach(f RANGE 1 1)
+foreach(f RANGE 1 2)
 
     if(${f} LESS 10)
         set(l 0${f})

@@ -7,6 +7,8 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
-#include <filesystem>
+#include <sstream>
+#include <string>
+#include <vector>
 
 #endif
